@@ -1,0 +1,19 @@
+{
+    "name": "potherca/upgradephp",
+    "description": "Emulates functions from new PHP versions on older interpreters.",
+    "type": "library",
+    "license": "Public Domain",
+    "homepage": "http://include-once.org/p/upgradephp/",
+    "support": {
+      "issues": "http://fossil.include-once.org/upgradephp/reportlist",
+      "source": "http://fossil.include-once.org/upgradephp/index",
+      "wiki": "http://fossil.include-once.org/upgradephp/wcontent"
+    },
+    "authors": [
+        {
+            "name": "milky",
+            "email": "milky@users.sf.net"
+        }
+    ],
+    "require": {}
+}
