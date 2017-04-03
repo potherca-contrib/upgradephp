@@ -1,0 +1,16 @@
+{
+    "name": "upgradephp/upgradephp",
+    "description": "PHP version compatibility library.",
+    "type": "library",
+    "license": "CC0-1.0",
+    "authors": [
+        {
+            "name": "Mario Salzer",
+            "email": "mario@include-once.org"
+        },
+        {
+            "name": "Andrea Giammarchi",
+            "email": "andrea@3site.it"
+        }
+    ]
+}
